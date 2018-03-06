@@ -1,0 +1,8 @@
+C:\Users\JhonnyLA\Documents\Programas\Clase2\Clase2\bin\Debug\Clase2.exe
+C:\Users\JhonnyLA\Documents\Programas\Clase2\Clase2\bin\Debug\Clase2.pdb
+C:\Users\JhonnyLA\Documents\Programas\Clase2\Clase2\obj\Debug\Clase2.csprojResolveAssemblyReference.cache
+C:\Users\JhonnyLA\Documents\Programas\Clase2\Clase2\obj\Debug\Clase2.Form1.resources
+C:\Users\JhonnyLA\Documents\Programas\Clase2\Clase2\obj\Debug\Clase2.Properties.Resources.resources
+C:\Users\JhonnyLA\Documents\Programas\Clase2\Clase2\obj\Debug\Clase2.csproj.GenerateResource.Cache
+C:\Users\JhonnyLA\Documents\Programas\Clase2\Clase2\obj\Debug\Clase2.exe
+C:\Users\JhonnyLA\Documents\Programas\Clase2\Clase2\obj\Debug\Clase2.pdb
